@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-03-09T10:10:00Z",
+  "digest_id": "20260309-1010",
+  "stories_scanned": 19,
+  "stories_selected": 10,
+  "stories_rejected": 11,
+  "new_stories": 8,
+  "carried_stories": 2,
+  "top_story": "Iran War Market Crash",
+  "sources_checked": ["Reuters", "NPR", "Fortune", "Al Jazeera", "PRNewswire", "SiliconRepublic", "Anthropic", "Business Insider", "TechCrunch", "The Hill", "Deadline", "Financial Times", "PYMNTS", "Bloomberg", "The Verge", "GitHub"],
+  "x_accounts_scanned": 200,
+  "web_sources_scanned": 50
+}
