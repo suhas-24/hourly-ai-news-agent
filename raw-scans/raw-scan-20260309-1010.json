@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-03-09T10:10:00Z",
+  "candidates": [
+    {"headline": "Iran War Market Crash", "status": "selected", "rank": 1, "sources": ["Reuters", "NPR", "Fortune", "Al Jazeera"], "date": "2026-03-09"},
+    {"headline": "Nscale $2B Series C", "status": "selected", "rank": 2, "sources": ["PRNewswire", "SiliconRepublic", "CityAM"], "date": "2026-03-09"},
+    {"headline": "Anthropic Labor Market Study", "status": "selected", "rank": 3, "sources": ["Anthropic", "Fortune", "Economic Times"], "date": "2026-03-05"},
+    {"headline": "Claude #1 App Store", "status": "selected", "rank": 4, "sources": ["Fortune", "Business Insider", "TechCrunch"], "date": "2026-03-02"},
+    {"headline": "Netflix InterPositive Acquisition", "status": "selected", "rank": 5, "sources": ["Deadline", "NPR", "Fast Company"], "date": "2026-03-05"},
+    {"headline": "White House AI Procurement Rules", "status": "selected", "rank": 6, "sources": ["FT", "PYMNTS", "Reuters"], "date": "2026-03-08"},
+    {"headline": "Karpathy Autoresearch", "status": "selected", "rank": 7, "sources": ["GitHub"], "date": "2026-03-06"},
+    {"headline": "OpenAI Robotics Chief Resigns", "status": "selected", "rank": 8, "sources": ["Bloomberg", "NPR", "Fortune"], "date": "2026-03-07"},
+    {"headline": "GPT-5.4 Launch", "status": "selected", "rank": 9, "sources": ["The Verge", "Fortune"], "date": "2026-03-05"},
+    {"headline": "Claude Firefox 22 Vulns", "status": "selected", "rank": 10, "sources": ["TechCrunch", "PCMag"], "date": "2026-03-06"},
+    {"headline": "Claude BrowseComp Eval", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "OpenAI Codex Security", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "Evo 2 Genome Model", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "Databricks KARL", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "Phi-4-Reasoning-Vision", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "Qwen3.5 Small Models", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "Luma AI Creative Agents", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "Databricks Lakebase GA", "status": "rejected", "reason": "prior_digest"},
+    {"headline": "China NPC AI Legislation", "status": "rejected", "reason": "single_source"}
+  ]
+}
